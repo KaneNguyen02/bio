@@ -1,0 +1,41 @@
+{
+    "bio": {
+      "title": "Cuong's Bio",
+      "avartar_link": null,
+      "description": "Software Engineer with expertise in React.js, Node.js, and DevOps.",
+      "link": "https://example.com/cuong",
+      "socialAccounts": [
+        {
+          "platform": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/cuong",
+          "username": "cuong"
+        },
+        {
+          "platform": "LinkedIn",
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/cuong",
+          "username": "cuong"
+        },
+        {
+          "platform": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/cuong",
+          "username": "@cuong"
+        },
+        {
+          "platform": "Facebook",
+          "icon": "facebook",
+          "link": "https://www.facebook.com/cuong",
+          "username": "cuong"
+        },
+        {
+          "platform": "Instagram",
+          "icon": "instagram",
+          "link": "https://www.instagram.com/cuong",
+          "username": "@cuong"
+        }
+      ]
+    }
+  }
+  
