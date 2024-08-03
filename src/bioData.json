@@ -1,39 +1,44 @@
 {
     "bio": {
-      "title": "Cuong's Bio",
+      "name": "Cuong's Bio",
       "avartar_link": null,
       "description": "Software Engineer with expertise in React.js, Node.js, and DevOps.",
-      "link": "https://example.com/cuong",
       "socialAccounts": [
         {
           "platform": "GitHub",
-          "icon": "github",
-          "link": "https://github.com/cuong",
+          "icon": "github.svg",
+          "link": "https://github.com/ndcqn02",
           "username": "cuong"
         },
         {
           "platform": "LinkedIn",
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/cuong",
+          "icon": "linkedin.svg",
+          "link": "https://www.linkedin.com/in/duccuongnguyen/",
           "username": "cuong"
         },
         {
-          "platform": "Twitter",
-          "icon": "twitter",
+          "platform": "Discord",
+          "icon": "discord.svg",
           "link": "https://twitter.com/cuong",
           "username": "@cuong"
         },
         {
           "platform": "Facebook",
-          "icon": "facebook",
-          "link": "https://www.facebook.com/cuong",
+          "icon": "facebook.svg",
+          "link": "https://www.facebook.com/ducuong2k2.pro/",
           "username": "cuong"
         },
         {
           "platform": "Instagram",
-          "icon": "instagram",
+          "icon": "instagram.svg",
           "link": "https://www.instagram.com/cuong",
           "username": "@cuong"
+        },
+        {
+          "platform": "Youtube",
+          "icon": "youtube.svg",
+          "link": "https://www.youtube.com/@cuong.nguyenduc",
+          "username": "cuong"
         }
       ]
     }
