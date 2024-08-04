@@ -1,46 +1,45 @@
 {
-    "bio": {
-      "name": "Cuong's Bio",
-      "avartar_link": null,
-      "description": "Software Engineer with expertise in React.js, Node.js, and DevOps.",
-      "socialAccounts": [
-        {
-          "platform": "GitHub",
-          "icon": "github.svg",
-          "link": "https://github.com/ndcqn02",
-          "username": "cuong"
-        },
-        {
-          "platform": "LinkedIn",
-          "icon": "linkedin.svg",
-          "link": "https://www.linkedin.com/in/duccuongnguyen/",
-          "username": "cuong"
-        },
-        {
-          "platform": "Discord",
-          "icon": "discord.svg",
-          "link": "https://twitter.com/cuong",
-          "username": "@cuong"
-        },
-        {
-          "platform": "Facebook",
-          "icon": "facebook.svg",
-          "link": "https://www.facebook.com/ducuong2k2.pro/",
-          "username": "cuong"
-        },
-        {
-          "platform": "Instagram",
-          "icon": "instagram.svg",
-          "link": "https://www.instagram.com/cuong",
-          "username": "@cuong"
-        },
-        {
-          "platform": "Youtube",
-          "icon": "youtube.svg",
-          "link": "https://www.youtube.com/@cuong.nguyenduc",
-          "username": "cuong"
-        }
-      ]
-    }
+  "bio": {
+    "name": "Kane Nguyen",
+    "avatarUrl": null,
+    "intro": "Software Engineer with expertise in React.js, Node.js, and DevOps.",
+    "socialAccounts": [
+      {
+        "platform": "GitHub",
+        "icon": "github.svg",
+        "link": "https://github.com/ndcqn02",
+        "description": "Explore my projects, code contributions, and open-source work"
+      },
+      {
+        "platform": "LinkedIn",
+        "icon": "linkedin.svg",
+        "link": "https://www.linkedin.com/in/duccuongnguyen/",
+        "description": "Connect with me professionally and view my career achievements"
+      },
+      {
+        "platform": "Discord",
+        "icon": "discord.svg",
+        "link": "https://twitter.com/cuong",
+        "description": "Join my community for discussions, support, and collaboration"
+      },
+      {
+        "platform": "Facebook",
+        "icon": "facebook.svg",
+        "link": "https://www.facebook.com/ducuong2k2.pro/",
+        "description": "Follow my updates, posts, and engage with my content"
+      },
+      {
+        "platform": "Instagram",
+        "icon": "instagram.svg",
+        "link": "https://www.instagram.com/cuongeii/",
+        "description": "See my photos, stories, and get a glimpse of my daily life"
+      },
+      {
+        "platform": "YouTube",
+        "icon": "youtube.svg",
+        "link": "https://www.youtube.com/@cuong.nguyenduc",
+        "description": "Watch my videos, tutorials, and stay updated with my channel"
+      }
+    ]
   }
-  
+}

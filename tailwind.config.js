@@ -1,15 +1,18 @@
 /** @type {import('tailwindcss').Config} */
-export default {
-  // darkMode: 'selector',
-  darkMode: ['selector', '[data-mode="light"]'],
+const defaultTheme = require('tailwindcss/defaultTheme')
 
-  content: [
-    "./index.html",
-    "./src/**/*.{vue,js,ts,jsx,tsx}",
-  ],
+export default {
+  
+  // darkMode: 'selector',
+  darkMode: ["selector", '[data-mode="light"]'],
+
+  content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
+    screens: {
+      'desktop': '1920px',
+      ...defaultTheme.screens,
+    },
     extend: {},
   },
   plugins: [],
-}
-
+};
