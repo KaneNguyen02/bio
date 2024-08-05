@@ -42,7 +42,7 @@
       />
     </div>
     <div
-      class="flex flex-col items-center justify-center mt-6 md:mt-52 xl:mt-12 desktop:mt-52"
+      class="flex flex-col items-center justify-center mt-6 md:mt-52 xl:mt-12 2xl:mt-52 desktop:mt-52 "
     >
       <img class="size-10 xl:size-16" src="/ndc_logo_black.svg" alt="logo" />
       <pre class="">Design by Kane Nguyen</pre>
